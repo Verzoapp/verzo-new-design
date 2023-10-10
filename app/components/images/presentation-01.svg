@@ -1,0 +1,12 @@
+<svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="presentation-01">
+<path id="Icon" d="M10.8001 17.1V15.3M18.0001 17.1V13.5M25.2001 17.1V9.9M14.4001 24.3L11.7001 31.5M24.8905 31.4L21.7085 24.3997M7.20009 24.3C5.21187 24.3 3.6001 22.6882 3.6001 20.7V8.1C3.6001 6.11177 5.21187 4.5 7.2001 4.5H28.8001C30.7883 4.5 32.4001 6.11177 32.4001 8.1V20.7C32.4001 22.6882 30.7883 24.3 28.8001 24.3H7.20009Z" stroke="url(#paint0_linear_5963_773)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_5963_773" x1="3.6001" y1="4.95652" x2="37.3906" y2="16.4991" gradientUnits="userSpaceOnUse">
+<stop offset="0.307292" stop-color="#027DFF" stop-opacity="0.9"/>
+<stop offset="0.494792" stop-color="#8C01E8" stop-opacity="0.9"/>
+<stop offset="0.958333" stop-color="#6275E9"/>
+</linearGradient>
+</defs>
+</svg>

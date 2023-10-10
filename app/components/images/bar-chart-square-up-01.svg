@@ -1,0 +1,12 @@
+<svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="bar-chart-square-up-01">
+<path id="Icon" d="M5.4001 23.3996L11.1747 17.9997L15.2995 21.8568L24.3739 13.3712M18.2002 12.5996H25.2001V19.1453M7.20009 32.3996C5.21187 32.3996 3.6001 30.7878 3.6001 28.7996V7.19961C3.6001 5.21138 5.21187 3.59961 7.2001 3.59961H28.8001C30.7883 3.59961 32.4001 5.21138 32.4001 7.19961V28.7996C32.4001 30.7878 30.7883 32.3996 28.8001 32.3996H7.20009Z" stroke="url(#paint0_linear_5839_2088)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_5839_2088" x1="3.6001" y1="4.08656" x2="37.8237" y2="15.0464" gradientUnits="userSpaceOnUse">
+<stop offset="0.307292" stop-color="#027DFF" stop-opacity="0.9"/>
+<stop offset="0.494792" stop-color="#8C01E8" stop-opacity="0.9"/>
+<stop offset="0.958333" stop-color="#6275E9"/>
+</linearGradient>
+</defs>
+</svg>

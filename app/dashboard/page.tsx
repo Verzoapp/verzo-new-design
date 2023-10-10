@@ -34,7 +34,7 @@ import { MagnifyingGlassIcon } from "@radix-ui/react-icons";
 import React from "react";
 import { useEffect } from "react";
 import { useRef } from "react";
-import { motion } from "framer-motion";
+// import { motion } from "framer-motion";
 
 // * React icons
 import { TbReportAnalytics } from "react-icons/tb";

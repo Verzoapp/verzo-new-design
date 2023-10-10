@@ -1,3 +1,11 @@
 import Dashboard from "./dashboard/page";
 
-export default Dashboard;
+const Hello = () => {
+    return (
+        <div>
+            <p>Hello</p>
+        </div>
+    )
+}
+
+export default Hello 
