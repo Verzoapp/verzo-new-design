@@ -158,8 +158,10 @@ module.exports = {
         "120px": "120px",
         "122px": "122px"
       },
-      listStyleType: {
-        check: 'url("./components/images/check.svg")'
+      spacing: {
+        "11px": "11px",
+        "26px": "26px",
+        "29px": "29px"
       }
     },
   },

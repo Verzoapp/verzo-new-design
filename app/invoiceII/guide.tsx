@@ -1,4 +1,7 @@
 import React from "react";
+import Image from "next/image";
+import GroupIcon from "../components/images/Group 48.svg"
+import BlurGroupIcon from "../components/images/Group 48 (1).svg"
 
 
 const Guide = () => {
@@ -11,9 +14,9 @@ const Guide = () => {
                     <div className="bg-whiteTint border-brightGrey border-0.5 rounded-20 max-w-562 h-332 xl:min-w-562 xl:max-w-none"></div>
                 </div>
                 <div className="hidden md:block text-center lg:w-10% ">
-                    <div className="relative w-4px mx-auto">
-                        <span className="w-9 h-9 rounded-full pt-1 bg-brandTint inline-block text-center absolute -top-9 -left-4"><span className="w-7 h-7 text-base rounded-full bg-lightBlue inline-block text-center pt-2px">1</span></span>
-                        <div className="w-4px h-416 bg-brightGray"><div className="w-4px h-139px bg-lightBlue"></div></div>
+                    <div className="relative w-8 mx-auto">
+                        <Image src={GroupIcon} alt="icon" className="absolute -top-29px" /> <span className="absolute -top-26px left-11px  text-lg text-white">1</span>
+                        <div className="mx-auto w-4px h-416 bg-brightGrey"><div className="w-4px h-139px bg-lightBlue"></div></div>
                     </div>
                 </div>
                 <div className="pt-10 md:pt-36 md:w-45%">
@@ -27,9 +30,9 @@ const Guide = () => {
                     <p className="text-darkGrey text-sm md:text-base lg:text-lg max-w-446">Navigate through your finances seamlessly with our user-friendly dashboard. Get an instant overview of your income, expenses, and profits at a glance.</p>
                 </div>
                 <div className="text-center hidden md:block w-10% ">
-                    <div className="relative w-4px mx-auto">
-                        <span className="w-9 h-9 rounded-full pt-1 bg-lightGray inline-block text-center absolute -top-9 -left-4"><span className="w-7 h-7 text-base rounded-full bg-brightGrey text-mainGrey inline-block text-center pt-2px">2</span></span>
-                        <div className="w-4px h-416 bg-brightGray"></div>
+                    <div className="relative w-8 mx-auto">
+                        <Image src={BlurGroupIcon} alt="icon" className="absolute -top-29px" /> <span className="absolute -top-26px left-11px text-lg text-mainGrey">2</span>
+                        <div className="mx-auto w-4px h-416 bg-brightGrey"></div>
                     </div>
                 </div>
                 <div className="pt-10 md:w-45%">
@@ -42,9 +45,9 @@ const Guide = () => {
                     <div className="bg-whiteTint border-brightGrey border-0.5 rounded-20 max-w-562 h-332 xl:min-w-562 xl:max-w-none"></div>
                 </div>
                 <div className="text-center hidden md:block w-10% ">
-                    <div className="relative w-4px mx-auto">
-                        <span className="w-9 h-9 rounded-full pt-1 bg-lightGray inline-block text-center absolute -top-9 -left-4"><span className="w-7 h-7 text-base rounded-full bg-brightGrey text-mainGrey inline-block text-center pt-2px">3</span></span>
-                        <div className="w-4px h-374 bg-brightGray"></div>
+                    <div className="relative w-8 mx-auto">
+                        <Image src={BlurGroupIcon} alt="icon" className="absolute -top-29px" /> <span className="absolute -top-26px left-11px  text-lg text-mainGrey">3</span>
+                        <div className="mx-auto w-4px h-416 bg-brightGrey"></div>
                     </div>
                 </div>
                 <div className="pt-10 md:pt-36 md:w-45%">

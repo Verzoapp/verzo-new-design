@@ -10,7 +10,7 @@ const Banner = () => {
             <div className='px-5 lg:px-0 flex flex-col space-y-0 md:space-y-6 text-start mt-14 mb-10 lg:w-1/2'>
                 <div className='mb-6'>
                     <h6 className='text-lg md:text-xl font-normal text-lightBlue mb-4'><Image src={ReceiptIcon} className='inline-block' alt='icon' /> Invoicing</h6>
-                    <h3 className='text-black max-w-521 text-4xl md:text-4xl mb-4 font-medium leading-42 md:leading-52'>Your business&rsquo; financial <br />support starts here</h3>
+                    <h3 className='text-black max-w-521 text-4xl md:text-4xl mb-4 font-medium leading-42 md:leading-52'>Invoicing made <br />effortless</h3>
                     <p className='text-darkGrey max-w-506 text-lg md:text-xl font-normal'>Empower your business with effortless <br /> bookkeeping, lorem ipsum is a placeholder text.</p>
                 </div>
                 <div className='flex flex-col md:flex-row space-x-0 space-y-6 md:space-y-0  md:space-x-6 md:items-center'>

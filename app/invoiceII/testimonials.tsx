@@ -21,7 +21,7 @@ const Testimonials = () => {
                 <div className="lg:w-45%">
                     <div className="lg:max-w-525 xl:max-w-none xl:min-w-525 md:h-315px rounded-20 bg-lightGray pl-4 md:pl-9">
                         <Image src={Image2} alt="img" className="pt-9" />
-                        <p className="text-darkGrey text-sm md:text-base lg:text-lg pt-6 lg:max-w-452px">With precise expense tracking, you'll gain a crystal-clear view of your financial health. Identify cost-saving opportunities and ensure your business stays profitable.</p>
+                        <p className="text-darkGrey text-sm md:text-base lg:text-lg pt-6 lg:max-w-452px">With precise expense tracking, you&lsquo;ll gain a crystal-clear view of your financial health. Identify cost-saving opportunities and ensure your business stays profitable.</p>
                         <p className="text-mainBlack text-sm md:text-base lg:text-lg pt-6 pb-9">Kate Doe <span className="text-mainGrey">|  CEO - Squared hairs</span></p>
                     </div>
                 </div>

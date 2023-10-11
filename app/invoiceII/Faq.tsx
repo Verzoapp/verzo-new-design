@@ -4,6 +4,7 @@ import ClickUp from "../components/images/chevron-up.svg";
 import ClickDown from "../components/images/chevron-down.svg"
 
 
+
 const Faq = () => {
 
     return (
@@ -13,7 +14,7 @@ const Faq = () => {
                     <h2 className="w-347px font-medium text-xl md:text-2xl lg:text-36 text-mainBlack">Frequently asked questions</h2>
                     <p className="text-darkGrey text-xl pt-6">All you need to know about Invoicing</p>
                 </div>
-                <div className="lg:w-50% pt-120px">
+                {/* <div className="lg:w-50% pt-120px">
                     <div className="pb-12">
                        <div className="flex justify-between items-center pb-6"> 
                             <h4 className="font-medium text-mainBlack text-xl lg:text-xl">Question goes here</h4>
@@ -35,7 +36,7 @@ const Faq = () => {
                             <Image src={ClickDown} alt="down" />
                         </div>
                     </div>
-                </div>
+                </div> */}
             </div>
         </section>
     )

@@ -6,7 +6,7 @@ import Guide from "./guide";
 import Testimonials from "./testimonials";
 import Faq from "./Faq";
 import Contact from "./contact";
-import Footer from "../components/Footer";
+import Footer from "./footer";
 
 const InvoiceII = () => {
 
