@@ -7,7 +7,7 @@ import Image2 from "../components/images/Ellipse 7 (2).png"
 const Testimonials = () => {
 
     return (
-        <section className="container mx-auto px-5 lg:px-0 pt-16 lg:pt-32 pb-28">
+        <section className="container mx-auto px-5 lg:px-0 pt-12 lg:pt-24 pb-28">
             <h2 className="text-xl md:text-2xl lg:text-36 text-mainBlack pb-2 font-medium">Testimonials</h2>
             <p className="text-darkGrey text-base md:text-lg lg:text-xl">Hear what our clients have to say</p>
             <div className="lg:flex justify-between mt-16">

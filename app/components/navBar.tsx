@@ -12,7 +12,7 @@ import { useState } from 'react'
 const NavBar = () => {
     const [displayNav, setDisplayNav] = useState(false);
     return (
-        <div className='sticky top-0 z-10 bg-white' >
+        <div className='sticky top-0 z-20 bg-white' >
             <DiscountBanner />
             <nav className='container mx-auto h-24 pr-3 md:pr-0 md:px-3 lg:px-0 bg-white flex items-center justify-between '>
                 <div className='mb-2'>

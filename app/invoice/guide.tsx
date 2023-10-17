@@ -7,7 +7,7 @@ const Guide = () => {
     return (
         <section className="container px-2 sm:px-5 lg:px-0 mx-auto mt-16 md:mt-28 ">
             <div className="text-center pb-12">
-                <h2 className=" text-lg md:text-4xl font-medium leading-none pb-4">How to use Verzo</h2>
+                <h2 className="text-2xl md:text-3xl lg:text-36 xl:text-4xl font-medium leading-none pb-4">How to use Verzo</h2>
                 <p className="text-darkGrey text-base md:text-xl">Effortless small business bookkeeping</p>
             </div>
             <div className="md:mt-8 relative">

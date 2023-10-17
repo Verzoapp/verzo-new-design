@@ -4,7 +4,7 @@ const OperationSection = () => {
     return (
         <section className='container mx-auto py-0 md:py-8 mt-16 lg:mt-28 px-5'>
             <div>
-                <h2 className='text-black text-xl font-medium md:text-4xl text-center'>Scale operations in <span className='text-lightBlue'>4 steps</span></h2>
+                <h2 className='text-black font-medium text-2xl md:text-3xl lg:text-36 xl:text-4xl text-center'>Scale operations in <span className='text-lightBlue'>4 steps</span></h2>
                 <div className='pt-10 lg:pt-28 lg:flex lg:gap-10 lg:flex-row'>
                     <div className='lg:w-1/2'>
                         <ul className=''>
@@ -37,7 +37,7 @@ const OperationSection = () => {
                         </ul>
                     </div>
                     <div className='lg:w-1/2 pt-10 lg:pt-36'>
-                        <div className=' bg-white shadow-lg w-220 h-210 sm:w-280 sm:h-280 md:w-500 md:h-460 mx-auto lg:mx-0 lg:ml-auto rounded-lg'></div>
+                        <div className=' bg-white shadow-lg w-220 h-210 sm:w-280 sm:h-280 md:w-500 md:h-460 lg:w-529px lg:h-460px mx-auto lg:mx-0 lg:ml-auto rounded-20 md:rounded-30'></div>
                     </div>
                 </div>
             </div>

@@ -15,7 +15,7 @@ const Features = () => {
         <section className="bg-white shadow-sm pb-14 lg:pb-28 mt-16 md:mt-20">
             <div className="mx-5 md:mx-10">
                 <div className="text-center flex flex-col space-y-2 md:space-y-3">
-                    <h2 className="font-medium text-lg md:text-4xl leading-none">We make the difference</h2>
+                    <h2 className="font-medium text-2xl md:text-3xl lg:text-36 xl:text-4xl leading-none">We make the difference</h2>
                     <p className="text-darkGrey text-base md:text-xl">Unlock the benefits of our solution</p>
                     <div className="pt-4 md:pt-6"> <Link href="#" className='px-6 py-3 rounded-10 text-sm md:text-base border-brightGrey border-1'>Speak to sales <Image src={MessageIcon} alt='icon' className='h-4 inline-block'/> </Link> </div>
                 </div>

@@ -3,8 +3,6 @@ import Image from "next/image";
 import Logo from "./images/logo.svg"
 import MediaIcon from "./images/Group 899.svg"
 
-
-
 const Footer = () => {
     return (
         <section className="mt-12 md:mt-28 px-5 pb-14 container mx-auto">
@@ -50,7 +48,7 @@ const Footer = () => {
                             <li className="text-sm lg:text-base font-medium">Resources</li>
                             <li className="text-sm lg:text-base text-darkGrey pt-3">Blog</li>
                             <li className=" flex justify-between items-center pt-3"><p className="text-sm lg:text-base text-darkGrey">Careers</p> <Image src={MediaIcon} alt="icon" className="h-4 text-end hidden md:block" /></li>
-                            <li className=" flex justify-between items-center pt-3"> <p className="text-sm lg:text-base text-darkGrey">Knowledge base</p> <p className="text-base hidden md:block">&copy; 2023 Verzo Inc. All rights reserved</p></li>
+                            <li className=" flex justify-between items-center pt-3"> <p className="text-sm lg:text-base text-darkGrey">Knowledge base</p> <p className="text-base text-darkGrey hidden md:block">&copy; 2023 Verzo Inc. All rights reserved</p></li>
                         </ul>
                     </div>
                 </div>
@@ -59,7 +57,7 @@ const Footer = () => {
                 <div className="block pt-6 lg:hidden">
                         <div className=""><Image src={Logo} alt="verzo" className="h-6 md:h-9 mx-auto" /></div>
                         <div className="pt-3"><Image src={MediaIcon} alt="icon" className="h-3 md:h-4 text-end mx-auto" /></div>
-                        <p className="text-sm lg:text-base text-center pt-3">&copy; 2023 Verzo Inc. All rights reserved</p>
+                        <p className="text-sm lg:text-base text-darkGrey text-center pt-3">&copy; 2023 Verzo Inc. All rights reserved</p>
                 </div>
             </div>
         </section>
